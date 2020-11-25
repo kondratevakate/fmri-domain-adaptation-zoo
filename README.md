@@ -4,7 +4,8 @@
 
 Enjoy building domain-agnostic models on all levels of data abstraction with our **models zoo** 🦓.
 
-Methods implemented:
+Author: Marina Pominova `@PominovaMS`
+Review: Ekaterina Kondrateva `@kondratevakate`
 
-Group website:
-http://adase.group/neuro/
+
+Our lab cite, please refer: http://adase.group/neuro/
