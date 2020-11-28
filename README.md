@@ -7,7 +7,9 @@ Enjoy building domain-agnostic models on all levels of data abstraction with our
 Author: Marina Pominova `@PominovaMS`
 Review, data processing and baseline: Ekaterina Kondrateva `@kondratevakate`
 
-![](assets/fmri-zoo-horisontal.PNG)
+<p align="center">
+  <img src="assets/fmri-zoo-horisontal.png" width="950">
+</p>
 
 
 Dataset: Autism Brain Imaging Data Exchange (ABIDE)
